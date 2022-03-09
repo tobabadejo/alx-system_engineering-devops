@@ -1,1 +1,1 @@
-This contains Shell Variables Expansions tasks
+This contains all the Shell Variables Expansions tasks
